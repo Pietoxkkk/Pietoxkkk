@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:- 0 tvg-logo="https://www.poder360.com.br/midia/tv-globo-anuncia-nova-identidade-visual-durante-o-jornal-nacional/" tvg-epg="https://redeglobo.globo.com/globonordeste/programacao/" goup-title="GLOBO",GLOBO HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+https://live-cm-ah-24-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjQtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjgzNDIwMzEyLCJpYXQiOjE2ODMzMzM5MTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNGNjZmUyMjQtM2E2MS00NzM3LWExY2ItNmE1ZjU1NmNlZTFhIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tY2FtL3BsYXlsaXN0Lm0zdTgifQ.sB1twNXdzB922-TcBY8478fR1kF5J4-boz1fQul6LXXPRZYnEyOnIuuFJRXJKkDaxUe1c4KbxDWVR3u4oEsMZ88Dn391W5wBChJ5sE3z0pjbIClCs5rPiaGdzdsvk9UIOmsEA8Op6P9JCO2Rb7yOwMNBksHHUGtRkwfw-hdh5X-tn0mEiblcrfbgsHhkESP1oWxyM9VurvV5rgt1zqO5gZpvy2Gw4BSQz_hmcDQ08IHCeq1I7ZeIKpMooDxUIKCwQHG2zgJB1JS2yDmODdfutcf39zChviPXrA4d422lkGilLwltNh0pvXch9Dhwq7J0xBLvEcV2Ais9nWljv_4FNg/nu/f(bMin=2000,dvr=120,i=2)/globo-cam/globo-cam-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
